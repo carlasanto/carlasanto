@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @carlasanto
-- 👀 I’m interested in programming, programming, especially with python and with the options it offers for different areas.Another thing I really like is cybersecurity.
-- 🌱 I’m currently learning more about python and practicing using tools like Metasploit, Burp Suite, Nessus, etc.
-- 💞️ I’m looking to I am looking to collaborate on projects related to programming with python and with people who are constantly looking to learn and grow.
-- 📫 How to reach me www.linkedin.com/in/carlasantosmd and carlasantomd@gmail.com
+👋 Hi, I’m @carlasanto.
+👀 I'm passionate about blockchain programming, particularly with Solidity, and exploring its wide-ranging applications. Another area of keen interest to me is cybersecurity.
+🌱 I'm experienced with tools such as Python, Metasploit, Burp Suite, Nessus, risk analysis tools, and more. I have knowledge in security frameworks, risk analysis, and vulnerabilities, including PCI DSS, ISO 27001, NIST, COBIT, GDPR, and Magerit.
+💞️ I'm actively seeking collaboration on projects related to Solidity programming and connecting with individuals who are dedicated to continuous learning and growth.
+- 📫 How to reach me www.linkedin.com/in/carlasantosdev and carlasantosdev@gmail.com
 
 <!---
 carlasanto/carlasanto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
